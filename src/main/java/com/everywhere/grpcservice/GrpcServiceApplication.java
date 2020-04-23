@@ -9,5 +9,4 @@ public class GrpcServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GrpcServiceApplication.class, args);
 	}
-
 }
